@@ -86,7 +86,7 @@ Now is probably a good time to read up on [selectors](https://developer.mozilla.
 
 Given a document like
 
-``` html
+``` html  
 <main id="app">
   <ul class="ranked-list">
     <li>1</li>
